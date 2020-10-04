@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Notes
+
+```
+    - install es7/React/Redus extension
+    - rcc create react class based component
+    - install redux: npm install redux react-redux redux-thunk
+```
